@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Portfolio
-description: "Some of the projects I have been working on."
+description: Some of the projects I have been working on.
 permalink: /portfolio/
 ---
 
