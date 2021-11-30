@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "UX design tips for creating better web forms"
+title:  "UX design tips for creating usable web forms"
 slug: web-form-tips
-description: "Talking about design tips for creating better web forms."
+description: "Best practices for form design: structure, inputs, labels and actions."
 date:   2021-11-15
 ---
 
