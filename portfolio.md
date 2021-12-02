@@ -9,7 +9,7 @@ permalink: /portfolio/
 
 I have experience in a wide variety of technologies and always enjoy learning more. 
 
-Below is a list of my featured projects. Check out my [Github](https://www.github.com/sebasmoles/) if you would like to see them all. <br>
+Below is a list of my featured projects. Check out my [GitHub](https://www.github.com/sebasmoles/) if you would like to see them all. <br>
 
 - [COVID-19 Tracker](https://github.com/sebasmoles/covid-tracker): Web App that displays the new/total cases and deaths globally as well as per country. (Vue CLI v4, Tailwind CSS, covid19api)
 
