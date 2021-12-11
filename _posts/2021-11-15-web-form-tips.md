@@ -6,7 +6,7 @@ description: "Best practices for form design: structure, inputs, labels and acti
 date:   2021-11-15
 ---
 
-The purpose of these tips is to help your users understand more clearly the structure of your web forms, and as a result, getting you more quality data with due format and less mistakes.<br><br>
+The purpose of these is to help your users understand more the structure of your web forms, and as a result, get you more quality data with the due format and fewer mistakes.<br><br>
 
 Apply them as you wish, and keep in mind that exceptions to these “rules” may exist.<br><br>
 
