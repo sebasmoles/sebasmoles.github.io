@@ -20,8 +20,5 @@ Sometimes I ask myself, "Is this for me?," "Is this what I want to do for the re
 Tricky questions, for sure. Yet common. Sometimes we just have to accept frustration and other uncomfortable/hard feelings, allowing ourselves to feel them.<br><br>
 
 
-I feel way better now thanks to accomplishing with success my first task, though. Thanks to writing this.<br><br>
-
-
-I have started a journey, and I decided to share my feelings, thoughts, and experiences with the world. Meaning the Internet. Meaning you.
+I feel way better now thanks to accomplishing with success my first task, though. Thanks to writing this.
 
