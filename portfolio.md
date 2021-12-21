@@ -11,15 +11,21 @@ I have experience in a wide variety of technologies and always enjoy learning mo
 
 Below is a list of my featured projects. Check out my [GitHub](https://www.github.com/sebasmoles/) if you would like to see them all. <br><br>
 
-[COVID-19 Tracker](https://github.com/sebasmoles/covid-tracker) 
+[Recipes Web App](https://github.com/sebasmoles/recipes-web-app) 
 
-Web App that displays the new/total cases and deaths globally as well as per country. (Vue CLI v4, Tailwind CSS, covid19api) 
+Web app that displays recipes and allows you to add and store new ones. (Vue CLI v4, Express.js, Tailwind CSS v2, Amazon S3, Heroku) 
 
 <br>
 
 [Task Tracker Web App](https://github.com/sebasmoles/task-tracker) 
 
 A simple task tracker web app that manages complete CRUD operations. (Vue CLI v4, CSS, JSON server) 
+
+<br>
+
+[COVID-19 Tracker](https://github.com/sebasmoles/covid-tracker) 
+
+Web app that displays the new/total cases and deaths globally as well as per country. (Vue CLI v4, Tailwind CSS, covid19api) 
 
 <br>
 
