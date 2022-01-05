@@ -9,7 +9,7 @@ permalink: /portfolio/
 
 I have experience in a wide variety of technologies and always enjoy learning more. 
 
-Below is a list of my featured projects. Check out my [GitHub](https://www.github.com/sebasmoles/) if you would like to see them all. <br><br>
+Below is a list of my featured projects. Explore my [GitHub](https://www.github.com/sebasmoles/) if you would like to see them all. <br><br>
 
 [Recipes Web App](https://github.com/sebasmoles/recipes-web-app) 
 
