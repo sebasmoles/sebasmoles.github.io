@@ -2,14 +2,14 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta itemprop="description" name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
+  <meta itemprop="description" name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% endif %}" />
 
   <!-- Open Graph tags -->
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="article">
   <meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-  <meta property="og:image" content="{{ site.url }}/thumbs/{{ page.image }}" />
+  <meta property="og:image" content="../assets/images/sebasmoles-card.png" />
   <meta property="og:site_name" content="WebJeda Blog">
   <meta property="article:publisher" content="http://www.facebook.com/sebasmolesg" />
   <meta property="article:author" content="https://www.facebook.com/sebasmolesg" />
@@ -21,19 +21,22 @@
   <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   <meta name="twitter:site" content="@sebasmoles" />
   <meta name="twitter:creator" content="@sebasmoles">
-  <meta name="twitter:card" content="summary">
-
-  <!-- Font style -->
-  <!-- Rubik -->
-  <link rel="preconnect" href="https://fonts.googleapis.com"> 
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
-  <link href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,400;0,600;0,700;0,800;1,400;1,600;1,700;1,800&display=swap" rel="stylesheet">
+  <meta name="twitter:image" content="../assets/images/sebasmoles-card.png">
 
   <link rel="canonical" href="{{ page.url | prepend: site.url }}">
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+
   {%- feed_meta -%}
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
   {%- endif -%}
-  {% seo %}
+
+  <title>
+    {% if page.title == 'Home' %}
+        Sebastian Morales - Software Developer 
+      {% else %}
+        {{ page.title }} - Sebastian Morales
+    {% endif %}
+  </title>
+
 </head>

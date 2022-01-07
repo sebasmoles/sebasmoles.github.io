@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Home
+description: I'm @sebasmoles, a Colombian software developer who loves investigation, design, and writing.
 ---
 
 # Who am I?
