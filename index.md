@@ -6,7 +6,7 @@ description: I'm @sebasmoles, a Colombian software developer who loves investiga
 
 # Who am I?
 
-I'm [@sebasmoles](https://twitter.com/sebasmoles){:target="_blank"}, a Colombian software developer currently working at [Terpel](https://www.terpel.com/Home/){:target="_blank"} (# 2 Oil-energy company in Colombia) as a data analyst.
+I'm [@sebasmoles](https://twitter.com/sebasmoles){:target="_blank"}, a Colombian software developer who loves investigation, design, and writing.
 
 I have [experience](/portfolio) in full stack web development and data analysis.
 
