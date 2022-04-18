@@ -13,18 +13,18 @@ Below is a list of my featured projects. Explore my [GitHub](https://www.github.
 
 [Recipes Web App](https://github.com/sebasmoles/recipes-web-app)
 
-Web project that displays recipes, and allows you to add/store new ones. (Vue CLI v4, Express.js, Tailwind CSS v2, Amazon S3, Heroku)
+Web project that displays recipes, and allows you to add/store new ones. **(Vue CLI v4, Express.js, Tailwind CSS v2, Amazon S3, Heroku)**
 
 <br>
 
 [Task Tracker Web App](https://github.com/sebasmoles/task-tracker)
 
-Web project that manages complete CRUD operations. (Vue CLI v4, CSS, JSON server)
+Web project that manages complete CRUD operations. **(Vue CLI v4, CSS, JSON server)**
 
 <br>
 
 [COVID-19 Tracker](https://github.com/sebasmoles/covid-tracker)
 
-Web project that displays the new/total cases and deaths globally, as well as per country. (Vue CLI v4, Tailwind CSS v2, covid19api)
+Web project that displays the new/total cases and deaths globally, as well as per country. **(Vue CLI v4, Tailwind CSS v2, covid19api)**
 
 <br>
