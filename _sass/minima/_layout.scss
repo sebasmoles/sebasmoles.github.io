@@ -222,6 +222,7 @@
 .post-meta {
   font-size: $small-font-size;
   color: $grey-color;
+  margin: 0;
 }
 
 .post-link {
@@ -236,7 +237,7 @@
  * Posts
  */
 .post-header {
-  margin-bottom: $spacing-unit;
+  margin: 0;
 }
 
 .post-title {
@@ -246,7 +247,7 @@
   line-height: 1;
 }
 
-
+// Main image
 .post-image {
   max-height: 350px;
   width: 100%;
@@ -271,11 +272,9 @@
   }
 
   h2 {
-    @include relative-font-size(2);
-
-    @include media-query($on-laptop) {
-      @include relative-font-size(1.75);
-    }
+    margin: 3rem 0rem 1rem;
+    font-weight: 600;
+    @include relative-font-size(1.5);
   }
 
   h3 {
@@ -293,10 +292,13 @@
       @include relative-font-size(1.125);
     }
   }
+  // Post images that are not the main one
+  img {
+    width: 100%;
+  }
 }
 
 // Home
-
 .hero-image {
   max-height: 300px;
   width: 100%;
