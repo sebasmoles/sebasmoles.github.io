@@ -21,7 +21,7 @@
 title: Sebastian Morales
 email: me@sebasmoles.com
 description: >- # this means to ignore newlines until "baseurl:"
-    I am a software developer who loves investigation, design, and writing.
+    I am a software developer who loves research, design, and writing.
 domain: sebasmoles.com # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://sebasmoles.com # the base hostname & protocol for your site, e.g. http://example.com
 host: 0.0.0.0 # to get mobile access for testing
